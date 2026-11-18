@@ -125,3 +125,5 @@ plt.show()
 
 
 ## Result
+
+Thus, predictive models were evaluated using performance metrics such as accuracy, precision, recall, and F1-score. The model performance was analysed, and the objective was successfully achieved.
